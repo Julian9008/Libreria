@@ -1,11 +1,11 @@
 package com.example.Libreria.Model;
 
-public class Titulo {
+public class Libro {
     private String title;
     private String author;
     private int year;
 
-    public Titulo (String title, String author, int year){
+    public Libro (String title, String author, int year){
         this.title = title;
         this.author = author;
         this.year = year;
